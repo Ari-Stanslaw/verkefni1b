@@ -37,10 +37,10 @@ git checkout         : Skifta branches eða endurheimta tree files
 
 
 a) git diff 
-	
+	             : Sýnir mun á working directory og staging area
 b) git diff --staged 
-	
-c) git diff commit1 commit2
+	     : Sýnir mun á staging area og commit1(eitthvað sem var commitað)
+c) git diff commit1 commit2  : sýnir mun á commit1 og commit2(eitthvað 2 sem voru commituð)
 
 
 
