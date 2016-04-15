@@ -5,14 +5,14 @@ Ari
 
 	
 cd
-
+	: cd skipunnin er notuð til að breyta núverandi möppu sem er verið að vinna í
 cd ~
-
+	: fer með þig á home directory. t.d. cd~ = cd /home/username 
 ls
-
+	: skipun til að telja allar skránar
 pwd
-
-mkdir
+	: til að prenta vinnumöppu (möppuni sem þú ert í)
+mkdir   : Stytting á "make directory", mkdir er notað til að búa til möppur í file system
 
 
 
