@@ -78,4 +78,8 @@ Repository: The purpose of Git is to manage a project, or a set of files, as the
 
 7. Hvenær væri sniðugt að nota branches?
 
+<<<<<<< HEAD
 Þegar þú er að prófa nýja hluti og villt ekki skemma aðal skránna.
+=======
+0906983119
+>>>>>>> exp
