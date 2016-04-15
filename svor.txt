@@ -47,6 +47,11 @@ c) git diff commit1 commit2  : sýnir mun á commit1 og commit2(eitthvað 2 sem vor
 
 4. Hvað er version control, hverjir eru helstu kostir við að nota GIT?
 
+Hluti af hugbúnað af stillinga stjórnun, version control,
+er stjórnun breytinga á skjölum, tölvuforritum, stór vefsíðum og öðrum söfnum upplýsinga. 
+Breytingar eru yfirleitt greind með númeri eða stafakóða, 
+kallað "revision number", "revision level", eða einfaldlega "revision".
+
 
 
 
