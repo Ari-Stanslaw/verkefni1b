@@ -61,7 +61,17 @@ Eitt commit fyrir rökrétta breytingu,
 þannig að gera commit fyrir eitthvað sem er bara að breyta einum hlut svo það er léttar að skylja hvað var breyt.
 
 
-
-
 6. Hvernig eru Working directory, Staging area og Repository frábrugðin í GIT,
    til hvers eru þau?
+
+Working directory: In computing, the working directory of a process is a directory of a hierarchical file system,
+                   if any, dynamically associated with each process.
+
+Staging area: The staging area is a file, generally contained in your Git directory, 
+              that stores information about what will go into your next commit. 
+              It’s sometimes referred to as the “index”, but it’s also common to refer to it as the staging area.
+
+Repository: The purpose of Git is to manage a project, or a set of files, as they change over time.
+            Git stores this information in a data structure called a repository. 
+            A git repository contains, among other things, the following: A set of commit objects. 
+            A set of references to commit objects, called heads.
