@@ -22,13 +22,13 @@ mkdir   : Stytting á "make directory", mkdir er notað til að búa til möppur í fi
 	
 
 git clone
-	   
+	     : Klón geymslu í nýja skrá
 git log
 	git status
-	
+   : Sýnir commit log
 git diff
-	     
-git checkout
+	     : Sýnir skrá mismun
+git checkout         : Skifta branches eða endurheimta tree files
 
 
 
