@@ -57,6 +57,9 @@ kallað "revision number", "revision level", eða einfaldlega "revision".
 
 5. Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 
+Eitt commit fyrir rökrétta breytingu,
+þannig að gera commit fyrir eitthvað sem er bara að breyta einum hlut svo það er léttar að skylja hvað var breyt.
+
 
 
 
