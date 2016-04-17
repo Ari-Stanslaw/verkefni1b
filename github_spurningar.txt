@@ -1,0 +1,3 @@
+GitHub spurningar:
+
+1) Hvað gera eftirfarandi git skipanir:
